@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## GitHub Page
 
-You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/158A/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Team Name
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+158A
 
-### Markdown
+### Member
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**박주홍** (2011312662)
 
-```markdown
-Syntax highlighted code block
+**최광영** (2012311404)
 
-# Header 1
-## Header 2
-### Header 3
+**김장훈** (2015311680)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Introduction
 
-**Bold** and _Italic_ and `Code` text
+관심 있는 프로젝트 [1](https://github.com/xbmc/xbmc) [2](https://github.com/showcases/icon-fonts) [3](https://github.com/crawl/crawl)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/17-1-SKKU-OSS/158A/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
