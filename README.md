@@ -2,13 +2,26 @@
 
 Member
 
-박주홍(2011312662)
+### 박주홍(2011312662)
 
-최광영(2012311404)
+* 조장
+* 코드분석
+* 기술부분
+* 발표
 
-김장훈(2015311680)
+### 최광영(2012311404)
 
+* 코드분석
+* JavaScript 담당
+* 응용부분
 
+### 김장훈(2015311680)
+
+* 코드분석
+* CSS, HTML 담당
+* 언어부분
+
+Team GitHub Site : https://github.com/17-1-SKKU-OSS/158A 
 
 
 ## Project
@@ -18,3 +31,5 @@ Name : A Dark Room
 > "A Minimalist Text Adventure"
 
 https://github.com/doublespeakgames/adarkroom
+
+
