@@ -21,7 +21,7 @@ Member
 * CSS, HTML 담당
 * 언어부분
 
-Team GitHub Site : https://github.com/17-1-SKKU-OSS/158A 
+Team GitHub Site : https://17-1-skku-oss.github.io/158A/
 
 
 ## Project
