@@ -29,7 +29,7 @@
 
 ## Project
 
-선정프로젝트
+선정프로젝트(<a href="https://adarkroom.doublespeakgames.com">게임링크 </a>)
 
 Name : A Dark Room 
 
@@ -39,7 +39,8 @@ Name : A Dark Room
 
 <img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27074956-9c0b6182-5063-11e7-98b2-a7de864c94dd.png">
  
- 게임링크 : <a href="https://adarkroom.doublespeakgames.com">게임링크 </a>
+ <img width = "50%" height = "50%" src="https://cloud.githubusercontent.com/assets/26888111/26312782/ab298742-3f43-11e7-8087-e98355b0e77f.PNG">
+ 
 
 
 ## Game Tip
