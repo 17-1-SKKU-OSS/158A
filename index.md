@@ -71,7 +71,7 @@ PC-크롬 브라우저를 사용해서 게임을 했는데 아이템 버튼이 �
 
 ## 개선한점
 1. 스탯표시개선
-<img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27074270-91018caa-5061-11e7-972b-86887aeec52a.png">
+<img width = "100%" height = "100%" src="https://user-images.githubusercontent.com/22006102/27074270-91018caa-5061-11e7-972b-86887aeec52a.png">
 
 
 2. 자연스러운한글번역
