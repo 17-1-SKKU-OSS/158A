@@ -7,11 +7,20 @@
 ### Member
 
 **박주홍** (2011312662)
+* 조장
+* 코드분석
+* 한글번역
+* 발표
 
-**최광영** (2012311404)
+**최광영** (2012311404
+* 게임분석
+* JavaScript 담당
+* 응용부분
 
 **김장훈** (2015311680)
-
+* 코드분석
+* JavaScript 담당
+* 언어부분
 
 ### Introduction
 
@@ -30,7 +39,7 @@ Name : A Dark Room
 
 <img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27074956-9c0b6182-5063-11e7-98b2-a7de864c94dd.png">
  
- 게임링크 : "https://adarkroom.doublespeakgames.com"
+ 게임링크 : <a href="https://adarkroom.doublespeakgames.com">게임링크 </a>
 
 
 ## Game Tip
@@ -70,7 +79,7 @@ PC-크롬 브라우저를 사용해서 게임을 했는데 아이템 버튼이 �
 집과 캐릭터 사이의 거리를 계산해서, 남은 식량보다 먼 지점으로 이동을 시도하려 할 때,
 경고 팝업창을 한 번 띄워주는 시스템을 적용할 수 있다면 좋을 것 같습니다.
 
-## 개선한점
+## 개선한점(<a href="https://github.com/doublespeakgames/adarkroom/pull/551/files"> 커밋 링크 </a>)
 1. 스탯표시개선
 <img width = "100%" height = "100%" src="https://user-images.githubusercontent.com/22006102/27074270-91018caa-5061-11e7-972b-86887aeec52a.png">
 
