@@ -29,7 +29,7 @@
 
 ## Project
 
-선정프로젝트(<a href="https://adarkroom.doublespeakgames.com">게임링크 </a>)
+선정프로젝트(<a href="http://adarkroom.doublespeakgames.com">게임링크 </a>)
 
 Name : A Dark Room 
 
