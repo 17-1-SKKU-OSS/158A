@@ -28,6 +28,9 @@ Name : A Dark Room
 
 "https://github.com/doublespeakgames/adarkroom"
 
+<img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27074956-9c0b6182-5063-11e7-98b2-a7de864c94dd.png">
+
+
 
 ## Game Tip
 
