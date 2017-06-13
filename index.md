@@ -26,7 +26,7 @@ Name : A Dark Room
 
 > "A Minimalist Text Adventure"
 
-https://github.com/doublespeakgames/adarkroom
+"https://github.com/doublespeakgames/adarkroom"
 
 
 ## Game Tip
