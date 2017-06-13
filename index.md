@@ -50,3 +50,8 @@ Name : A Dark Room
 
 
 
+## 향후계획
+ 어플리케이션에 대한 평이 다들 좋은 편이지만 번역에 대한 아쉬움을 많이 보인다. 향후 기회가 된다면 모바일 어플리케이션의 한글 번역판을 제작하고자 한다. <br />
+<img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27075145-2137f104-5064-11e7-910e-1ffc6ce960d8.PNG">
+
+<img width = "50%" height = "50%" src="https://user-images.githubusercontent.com/22006102/27075146-21454fd4-5064-11e7-9b0d-f743268a8094.PNG">
